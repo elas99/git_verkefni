@@ -1,7 +1,0 @@
-“Git spurningar og svör”
-1. Hvað gera eftirfarandi Linux skipanir?
-	cd = Change Directory, ferð í nýja skrá
-	cd ~ =  Fer til baka á rótina
-	ls = Sýnir allt sem er í skránni sem þú ert staðsettur
-	pwd = Sýnir hvaða directory þú ert í, t.d. H/ eda C/
-	mkdir = býr til skrá/directory
