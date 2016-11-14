@@ -22,7 +22,4 @@
 Version control er einhvað sem vistar breytingar á gögnum yfir tíma þannig að þú getur farið til baka á part sem þú vilt vera á léttilega.
 
 
-5.	Hverjir eru helstu kostir við að nota GIT?
-Version control og léttara fyrir hópvinnu
-
 
