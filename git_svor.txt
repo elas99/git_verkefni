@@ -11,3 +11,7 @@
 	git status = Sýnir öll ný eða breytt gögn sem eru commited
 	git diff = Shows file differences not yet staged - Sýnir skrár mun sem er ekki ennþá stageað
 	git checkout = Skiptir í branch sem þú sagðir og breytir working directory
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff = Sýnir það sem er ekki ennþá staged
+	b) git diff --staged = Sýnir munin á gögnunum á milli staging og síðasta file version
+	c) git diff commit1 commit2 = Sýnir allt á milli þessu tveggja
