@@ -40,3 +40,7 @@ The staging area is a file, generally contained in your Git directory, that stor
 Repository er staður sem þú geymir gögn/files/hluti
 
 
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+Þegar þú þarft nýtt working directory, staging area eða project history.
+
+
