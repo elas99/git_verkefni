@@ -5,13 +5,27 @@
 	ls = Sýnir allt sem er í skránni sem þú ert staðsettur
 	pwd = Sýnir hvaða directory þú ert í, t.d. H/ eda C/
 	mkdir = býr til skrá/directory
+
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone = Downloadar project og allt version history þeirra
 	git log = Sýnir version history fyrir branchið sem þú ert á
 	git status = Sýnir öll ný eða breytt gögn sem eru commited
 	git diff = Shows file differences not yet staged - Sýnir skrár mun sem er ekki ennþá stageað
 	git checkout = Skiptir í branch sem þú sagðir og breytir working directory
+
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff = Sýnir það sem er ekki ennþá staged
 	b) git diff --staged = Sýnir munin á gögnunum á milli staging og síðasta file version
 	c) git diff commit1 commit2 = Sýnir allt á milli þessu tveggja
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+Version control er einhvað sem vistar breytingar á gögnum yfir tíma þannig að þú getur farið til baka á part sem þú vilt vera á léttilega.
+
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+Version control og léttara fyrir hópvinnu
+
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+Alltaf þegar þú bætir við gögnum sem gætu léttilega skemmt verkefnið eða þegar þú ert að vinna í hóp, vegna þess að þá er léttara
+að laga verkefnið þitt ef þú ert búin að commita gömul versions ef þú gerir einhverja mistök
