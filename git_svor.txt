@@ -5,3 +5,9 @@
 	ls = Sýnir allt sem er í skránni sem þú ert staðsettur
 	pwd = Sýnir hvaða directory þú ert í, t.d. H/ eda C/
 	mkdir = býr til skrá/directory
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone = Downloadar project og allt version history þeirra
+	git log = Sýnir version history fyrir branchið sem þú ert á
+	git status = Sýnir öll ný eða breytt gögn sem eru commited
+	git diff = Shows file differences not yet staged - Sýnir skrár mun sem er ekki ennþá stageað
+	git checkout = Skiptir í branch sem þú sagðir og breytir working directory
